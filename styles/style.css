@@ -1,0 +1,7 @@
+body {background-color: gray; color: antiquewhite;}
+header {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+border: 10px solid blue;}
+a { color: azure;}
+a.monkeyLink { color: aqua; }
+a.gorillaLink { color: blueviolet; }
+img { width: 250px;}
