@@ -34,3 +34,7 @@ footer {
 main {
     display: flex;
 }
+
+a.CulmLink {
+    color: blue;
+}
